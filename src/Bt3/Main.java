@@ -28,6 +28,8 @@ public class Main {
                     System.out.printf("(%d, %d); ", list1.get(j) + 1, list2.get(j) + 1);
                 }
             }
+        }else{
+            System.out.println("ko tim thay");
         }
     }
 

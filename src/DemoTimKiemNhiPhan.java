@@ -1,6 +1,12 @@
 import java.util.Scanner;
 
 public class DemoTimKiemNhiPhan {
+    // la hoat dong tim kiem tren mang, danh sach da sap xep
+    // tim kiem mot phan tu bang cach so sanh gia tri cua phan tu o giua nhat cua tap du lieu
+    // neu trung khop thi chi mua index cua phan tu duoc tra ve
+    // neu phan tu can tim lon hon gia tri phan tu giua, thi phan tu can tim phai nam trong nua mang con ben canh
+    // neu khong thi no nam o nua mang ben trai
+    // tien trinh se tiep tuc nhu vay, cho den khi tim thay phan tu, hoac ko the chia nho duoc nua
     public static void main(String[] args) {
         int arr[] = {1, 2, 34, 5, 6, 7, 6, 7, 8};
         while (true) {
